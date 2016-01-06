@@ -1,0 +1,4 @@
+NUGET
+  remote: ..\A\bin\
+  specs:
+    A (2.0)

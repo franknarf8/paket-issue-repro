@@ -1,0 +1,3 @@
+source ..\A\bin\
+source ..\B\bin\
+nuget B 1.0 prerelease
