@@ -1,3 +1,3 @@
 pushd C
-.paket\paket install
+.paket\paket update
 popd
