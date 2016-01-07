@@ -1,2 +1,2 @@
 source ..\A\bin\
-nuget A = 2.0 prerelease
+nuget A ~> 2.0 prerelease
