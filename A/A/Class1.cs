@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using E;
+using F;
 
 namespace A
 {
     public class Class1
     {
+        private FClass e = new FClass();
+        private EClass f = new EClass();
     }
 }
