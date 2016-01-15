@@ -1,3 +1,3 @@
-pushd C
-.paket\paket update
+pushd A
+.paket\paket pack output bin symbols
 popd

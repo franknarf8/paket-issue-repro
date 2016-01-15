@@ -1,4 +1,0 @@
-NUGET
-  remote: ..\A\bin\
-  specs:
-    A (3.0.0-alpha1)

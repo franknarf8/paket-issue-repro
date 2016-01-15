@@ -1,8 +1,0 @@
-NUGET
-  remote: ..\A\bin\
-  specs:
-    A (2.0.0-alpha1)
-  remote: ..\B\bin\
-  specs:
-    B (1.0)
-      A (>= 2.0.0-prerelease < 3.0.0-prerelease)
