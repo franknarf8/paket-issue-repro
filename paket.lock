@@ -1,10 +1,6 @@
-NUGET
-  remote: TestB
-  specs:
-    Test (0.0.1)
 
-GROUP Cumulus.1.0
+
+GROUP WK-Component
 NUGET
-  remote: TestB
-  specs:
-    Test (0.0.1)
+  remote: Source
+    WindowsNative (1.0.2)

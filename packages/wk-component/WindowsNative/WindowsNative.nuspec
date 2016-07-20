@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>WindowsNative</id>
+    <version>1.0.2</version>
+    <title>WindowsNative</title>
+    <authors>Wolters Kluwer</authors>
+    <description>Native Windows methods and types</description>
+  </metadata>
+</package>

@@ -1,0 +1,14 @@
+c:\users\francois.genois\documents\visual studio 2015\Projects\Sandbox2.0\Sandbox2.0\bin\Debug\Sandbox2.0.exe.config
+c:\users\francois.genois\documents\visual studio 2015\Projects\Sandbox2.0\Sandbox2.0\bin\Debug\Sandbox2.0.exe
+c:\users\francois.genois\documents\visual studio 2015\Projects\Sandbox2.0\Sandbox2.0\bin\Debug\Sandbox2.0.pdb
+c:\users\francois.genois\documents\visual studio 2015\Projects\Sandbox2.0\Sandbox2.0\obj\Debug\Sandbox2.0.csprojResolveAssemblyReference.cache
+c:\users\francois.genois\documents\visual studio 2015\Projects\Sandbox2.0\Sandbox2.0\obj\Debug\Sandbox2.0.exe
+c:\users\francois.genois\documents\visual studio 2015\Projects\Sandbox2.0\Sandbox2.0\obj\Debug\Sandbox2.0.pdb
+D:\prog\Sandbox2.0\Sandbox2.0\bin\Debug\Sandbox2.0.exe.config
+D:\prog\Sandbox2.0\Sandbox2.0\obj\Debug\Sandbox2.0.exe
+D:\prog\Sandbox2.0\Sandbox2.0\obj\Debug\Sandbox2.0.pdb
+D:\prog\Sandbox2.0\Sandbox2.0\bin\Debug\Sandbox2.0.exe
+D:\prog\Sandbox2.0\Sandbox2.0\bin\Debug\Sandbox2.0.pdb
+D:\prog\Sandbox2.0\Sandbox2.0\obj\Debug\Sandbox2.0.csprojResolveAssemblyReference.cache
+D:\prog\Sandbox2.0\Sandbox2.0\bin\Debug\Newtonsoft.Json.dll
+D:\prog\Sandbox2.0\Sandbox2.0\bin\Debug\Newtonsoft.Json.xml
