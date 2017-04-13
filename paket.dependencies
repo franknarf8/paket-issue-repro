@@ -1,0 +1,5 @@
+source https://www.myget.org/F/paket-repro-3/api/v2
+
+nuget a
+nuget b
+nuget c
